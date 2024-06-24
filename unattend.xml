@@ -13,7 +13,7 @@
       <UserAccounts>
         <LocalAccounts>
           <LocalAccount wcm:action="add">
-            <Name>YourExistingUserName</Name>
+            <Name>platotest</Name>
             <Group>Administrators</Group>
           </LocalAccount>
         </LocalAccounts>
