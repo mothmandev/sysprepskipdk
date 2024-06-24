@@ -1,0 +1,1 @@
+unattend.xml skal ind i C:\Windows\System32\Sysprep\unattend.xml
